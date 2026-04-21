@@ -1,0 +1,20 @@
+{
+  "built_at": "2026-04-21T09:29:44.940924",
+  "total_chunks": 738,
+  "dimension": 384,
+  "books": [
+    {
+      "title": "Handbook Undergraduate Studies 2025-26",
+      "author": "University",
+      "language": "en",
+      "chunks": 285
+    },
+    {
+      "title": "Handbook for Advanced Studies",
+      "author": "University",
+      "language": "en",
+      "chunks": 453
+    }
+  ],
+  "model": "paraphrase-multilingual-MiniLM-L12-v2"
+}
